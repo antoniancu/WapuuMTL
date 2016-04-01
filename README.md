@@ -1,2 +1,2 @@
-# wapuMTL
-Wapu for the Montreal WordCamp 
+# WapuuMTL
+Wapuu for the Montreal WordCamp. 
